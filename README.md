@@ -7,18 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Website Evaluasi Ujian Online Berbasis Laravel
+## Website Ujian Online Berbasis Laravel
 
-Webiste ini merupakan website yang digunakan dosen untuk melihat evaluasi soal ujiannya melalui jawaban dari mahasiswa. sistem ini juga terdapat menu ujiannya yang digunakan mahasiswa untuk melakukan pengambilan nilai pada suatu Mata Kuliah.
+Webiste ini merupakan website yang digunakan dosen untuk melakukan ujian kepada mahasiswa dengan tipe ujian pilihan ganda dengan pilihan jawaban ada 5, melihat evaluasi soal ujiannya melalui jawaban dari mahasiswa. sistem ini juga terdapat menu ujiannya yang digunakan mahasiswa untuk melakukan pengambilan nilai pada suatu Mata Kuliah.
 
-# Cara Instal :
-1. Download dan Rarkan di file xampp kalian dan di folder htdocs atau dimana pun bisa
-2. Buat Database yang namanya db_evaluasi
-3. Untuk database siliahkan hubungi email saya krisnawahyudi2017@gmail.com
-4. Import databasenya atau bisa juga menggunakan command prompt kemudian tulis kode berikut php artisan migrate:fresh
-5. Buka command prompt jalankan perinta php artisan serve untuk menjalankan webiste di chrome ataupun aplikasi lainnya
-
-Selesai
+catatan : untuk mendapatkan folder Database silahkan HUBUNGI email "krisnawahyudi2017@gmail.com"
 .
 
 ## Learning Laravel
